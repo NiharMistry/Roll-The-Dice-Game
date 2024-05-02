@@ -10,7 +10,7 @@ The player with the highest dice roll wins the game
 In case of a tie, the game declares a draw
 
 =>How to Play
-Open the index.html file in your web browser.
+Open the "dicee.html" file in your web browser.
 Click the "Refresh" button to roll the dice and determine the winner.
 The game will display the result, indicating whether Player 1, Player 2, or both players have won.
 
