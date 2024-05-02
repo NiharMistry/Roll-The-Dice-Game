@@ -11,7 +11,7 @@ In case of a tie, the game declares a draw
 
 =>How to Play
 Open the "dicee.html" file in your web browser.
-Click the "Refresh" button to roll the dice and determine the winner.
+Click the "Roll The Dice" button to roll the dice and determine the winner.
 The game will display the result, indicating whether Player 1, Player 2, or both players have won.
 
 =>Files Included
@@ -21,4 +21,4 @@ file.js: JavaScript file containing the game logic and functionality.
 images/: Directory containing dice images used in the game.
 
 =>Credits
-This game was created by [Your Name].
+This game was created by Nihar Mistry.
